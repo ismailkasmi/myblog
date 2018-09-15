@@ -1,0 +1,5 @@
+Django==1.9
+gunicorn==19.9.0
+pillow==5.2.0
+pytz==2018.5
+virtualenv==16.0.0
